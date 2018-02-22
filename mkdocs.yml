@@ -23,10 +23,11 @@ extra:
     - type: 'twitter'
       link: 'https://twitter.com/elixir_book'
 
-
 markdown_extensions:
   - codehilite:
       linenums: true
   - admonition
   - toc:
       permalink: '|>'
+
+  
