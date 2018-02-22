@@ -10,7 +10,7 @@ theme:
     accent: 'deep purple'
   logo:
     icon: opacity
-  favicon: 'assets/images/favicon.ico'
+  # favicon: 'assets/images/favicon.ico'
 
 repo_name: 'elixirbook.github.io'
 repo_url: 'https://github.com/elixirbook/elixirbook.github.io'
