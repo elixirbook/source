@@ -1,0 +1,32 @@
+site_name: ElixirBook
+page:
+  - Home: index.md
+  - About: about.md
+
+theme: 
+  name: material
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+  logo:
+    icon: opacity
+  favicon: 'assets/images/favicon.ico'
+
+repo_name: 'elixirbook.github.io'
+repo_url: 'https://github.com/elixirbook/elixirbook.github.io'
+edit_uri: ''
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/elixirbook'
+    - type: 'twitter'
+      link: 'https://twitter.com/elixir_book'
+
+
+markdown_extensions:
+  - codehilite:
+      linenums: true
+  - admonition
+  - toc:
+      permalink: '|>'

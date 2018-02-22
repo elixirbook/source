@@ -1,0 +1,1 @@
+To install Elixir, follow the [installation guide](https://elixir-lang.org/install.html) at Elixir's official website.
