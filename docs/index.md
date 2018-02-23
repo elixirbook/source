@@ -4,6 +4,6 @@ ElixirBook is an attempt to write a beginner friendly book about [**Elixir**](ht
 
 You can find the source code for this book at GitHub:
 [ElixirBook](https://github.com/elixirbook) /
-[elixirbook.github.io](https://github.com/elixirbook/elixirbook.github.io)
+[source](https://github.com/elixirbook/source)
 
 I am [Arif Hussain Bangash](https://twitter.com/devotiongeo), a Geologist turned web developer.
