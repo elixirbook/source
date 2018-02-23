@@ -1,4 +1,5 @@
 site_name: ElixirBook
+site_author: Arif Hussain Bangash
 page:
   - Home: index.md
   - About: about.md
@@ -30,4 +31,6 @@ markdown_extensions:
   - toc:
       permalink: '|>'
 
+
+copyright: 'Arif Hussain Bangash - @DevotionGeo'
   

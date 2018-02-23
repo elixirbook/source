@@ -6,7 +6,6 @@ You can find the source code for this book at GitHub:
 [ElixirBook](https://github.com/elixirbook) /
 [source](https://github.com/elixirbook/source)
 
-I am [Arif Hussain Bangash](https://twitter.com/devotiongeo), a Geologist turned web developer.
 
 ## Installation
 
