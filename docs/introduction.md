@@ -8,4 +8,9 @@ On Jan 9, 2011 José Valim initialized a new git repository for this language an
 
 ## About the language
 
-Elixir is a functional, dynamic language designed for easier scalability and maintainability. It runs on Erlang VM which is refined and battle tested for decades. Scalability, concurrency, fault-tolernace and hot code reloading are some of the strengths of the Erlang VM (BEAM).  
+Elixir is a functional, dynamic language designed for easier scalability and maintainability. It runs on Erlang VM which is refined and battle tested for decades. Scalability, concurrency, fault-tolernace and hot code reloading are some of the strengths of the Erlang VM (BEAM).
+
+Elixir makes creating and scaling web application a pleasant experience. Elixir and its full-stack framework Phoenix are heaven for Rails, Django, Laravel, Symfony, Play, Spring, Mojolicious and Grails developers looking for a technology as productive as their previous language/framework but a lot easier to scale vertically and horizontally.
+
+
+
