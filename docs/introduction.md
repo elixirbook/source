@@ -4,7 +4,7 @@ In 2010, a very influential rubyist and Rails core team member José Valim start
 
 On Jan 9, 2011 José Valim initialized a new git repository for this language and called it Elixir.
 
-![first commit](https://i.imgur.com/3M422dN.png)
+![first commit](https://i.imgur.com/nkQXv7p.png)
 
 ## About the language
 
