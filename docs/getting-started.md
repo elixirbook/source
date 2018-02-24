@@ -21,7 +21,7 @@ iex(4)> 3 * 3 == 10
 false
 iex(5)> 3 + 5 != 20
 true
-iex(6)>  8 > 3
+iex(6)> 8 > 3
 true
 iex(7)> 2 + 2 > 3
 true
@@ -37,12 +37,4 @@ true
 
 The last 4 expressions need explanation
 
-.
-
-.
- 
-.
- 
-.
- 
-.
+(section incomplete...)
