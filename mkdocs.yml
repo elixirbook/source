@@ -10,12 +10,12 @@ theme:
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
-  logo:
-    icon: opacity
+  # logo:
+  #   icon: opacity
   # favicon: 'assets/images/favicon.ico'
 
-repo_name: 'elixirbook.github.io'
-repo_url: 'https://github.com/elixirbook/elixirbook.github.io'
+repo_name: 'Source at Github'
+repo_url: 'https://github.com/elixirbook/source'
 edit_uri: ''
 
 extra:
