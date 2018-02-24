@@ -26,8 +26,7 @@ extra:
       link: 'https://twitter.com/elixir_book'
 
 markdown_extensions:
-  - codehilite:
-      # linenums: true
+  - codehilite
   - admonition
   - toc:
       permalink: '|>'
