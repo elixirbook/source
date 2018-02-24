@@ -6,6 +6,7 @@ page:
 
 theme: 
   name: material
+  custom_dir: 'material'
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
@@ -26,7 +27,7 @@ extra:
 
 markdown_extensions:
   - codehilite:
-      linenums: true
+      # linenums: true
   - admonition
   - toc:
       permalink: '|>'
