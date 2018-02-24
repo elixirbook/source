@@ -10,30 +10,30 @@ IEx is a [repl (Read-Eval-Print Loop)](https://en.wikipedia.org/wiki/Read%E2%80%
 
 Let's open iex and enter the following expressions.
 
-``` elixir
-iex(1)> 1 + 2
-3
-iex(2)> 5 - 3
-2
-iex(3)> 2 + 2 == 4
-true
-iex(4)> 3 * 3 == 10
-false
-iex(5)> 3 + 5 != 20
-true
-iex(6)> 8 > 3
-true
-iex(7)> 2 + 2 > 3
-true
-iex(8)> length [1,2,3,4,5,6,7,8,9]
-9
-iex(9)> Float.floor(15.3373, 2)
-15.33
-iex(10)> Calendar.ISO.leap_year?(2018)
-false
-iex(11)> Calendar.ISO.leap_year?(2020)
-true
-```
+    :::elixir
+    iex(1)> 1 + 2
+    3
+    iex(2)> 5 - 3
+    2
+    iex(3)> 2 + 2 == 4
+    true
+    iex(4)> 3 * 3 == 10
+    false
+    iex(5)> 3 + 5 != 20
+    true
+    iex(6)> 8 > 3
+    true
+    iex(7)> 2 + 2 > 3
+    true
+    iex(8)> length [1,2,3,4,5,6,7,8,9]
+    9
+    iex(9)> Float.floor(15.3373, 2)
+    15.33
+    iex(10)> Calendar.ISO.leap_year?(2018)
+    false
+    iex(11)> Calendar.ISO.leap_year?(2020)
+    true
+    
 
 The last 4 expressions need explanation
 
