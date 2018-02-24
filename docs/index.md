@@ -14,7 +14,7 @@ To install Elixir, follow the [installation guide](https://elixir-lang.org/insta
 
 ## History of Elixir
 
-In 2010, a very influential rubyist and Rails core team member José Valim started using Erlang for pieces of his Rails apps with higher need for better concurrency. He loved Erlang, but he missed some features, so he decided to create a new programming language which wil run on Erlang VM (BEAM), with all the benefits of Erlang and BEAM but a better syntax and ecosystem.
+In 2010, a very influential rubyist and Rails core team member [José Valim](https://twitter.com/josevalim/) started using Erlang for pieces of his Rails apps with higher need for better concurrency. He loved Erlang, but he missed some features, so he decided to create a new programming language which wil run on Erlang VM (BEAM), with all the benefits of Erlang and BEAM but a better syntax and ecosystem.
 
 On Jan 9, 2011 José Valim initialized a new git repository for this language and called it Elixir.
 
