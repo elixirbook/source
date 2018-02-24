@@ -42,7 +42,7 @@ Let's open iex and enter the following expressions.
 
 The last 6 expressions need explanation. In Elixir a function is enclosed in a module, and when we call that function we have to prepend it with the module name, e.g., in expression #9, `Float` is the name of module and `floor` is the name of function.
 
-Sometimes we have a module name, then sub-module name and then the function name, like in expression #10 and #11, `Calendar` is the name of module, `IOS` is the name of sub-module and `leap_year?` is the name of function. 
+Sometimes we have a module name, then sub-module name and then the function name, like in expressions #10 and #11, `Calendar` is the name of module, `IOS` is the name of sub-module and `leap_year?` is the name of function. 
 
 Anonymous functions are an exception to this rule, like in expressions #12 and #13 we define and call an anonymous function respectively. In that case we call the function by putting name of the function, then dot and then the arguments.
 
