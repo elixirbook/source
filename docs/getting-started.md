@@ -43,4 +43,3 @@ In expression #8 `length` is part of the module `Kernel` but not prepended by it
 
 !!!info "" 
     More details on Functions in the _Functions chapter_
-
