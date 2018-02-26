@@ -1,8 +1,5 @@
 Assuming you already installed Erlang and Elixir, you can run Interactive Elixir Shell (iex) inside your terminal/command line.
 
-!!!info "Opening command line / terminal (skip if you already know)"
-    On Mac, open terminal by pressing `⌘` + `space` and then typing `terminal` to find it. On windows click on the start button and the type `cmd` to open command prompt. On Ubuntu press `ctrl` + `alt` + `t` to open terminal.
-
 ## Interactive Elixir
 Open command line / terminal, type `iex` and press enter. It will output the Erlang and Elixir versions and the prompot will change to `iex(1)>`. The number will change every time you execute a new command.
 
