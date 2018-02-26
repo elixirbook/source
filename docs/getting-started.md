@@ -41,5 +41,6 @@ In expression #9, `Float` is the module and `floor` is the function. In expressi
 
 In expression #8 `length` is part of the module `Kernel` but not prepended by it's name, as it's a built-in function. In the last two expressions we define and then call an anonymous function.
 
-!!!info "More details on Functions in the _Functions chapter_"
+!!!info "" 
+    More details on Functions in the _Functions chapter_
 
