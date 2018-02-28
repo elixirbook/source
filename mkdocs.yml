@@ -23,7 +23,7 @@ extra:
     - type: 'github'
       link: 'https://github.com/elixirbook'
     - type: 'twitter'
-      link: 'https://twitter.com/elixir_book'
+      link: 'https://twitter.com/devotiongeo'
 
 markdown_extensions:
   - codehilite
